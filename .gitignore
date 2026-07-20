@@ -6,3 +6,4 @@ coverage/
 .DS_Store
 vitest.shims.d.ts
 debug-storybook.log
+.npmrc
