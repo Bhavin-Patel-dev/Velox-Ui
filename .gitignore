@@ -1,0 +1,8 @@
+node_modules/
+dist/
+coverage/
+.storybook-out/
+*.local
+.DS_Store
+vitest.shims.d.ts
+debug-storybook.log

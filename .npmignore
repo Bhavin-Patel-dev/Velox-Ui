@@ -1,0 +1,12 @@
+src/
+.storybook/
+node_modules/
+*.test.tsx
+*.stories.tsx
+vitest.config.ts
+tsconfig.json
+tsconfig.test.json
+vite.config.ts
+.gitignore
+vitest.shims.d.ts
+debug-storybook.log
