@@ -17,7 +17,8 @@ const meta: Meta<typeof Spinner> = {
     variant: {
       control: "select",
       options: ["primary", "secondary", "white"],
-      description: "Color variant of spinner",
+      description:
+        "Color variant of spinner. Use 'white' on dark background only",
       table: { defaultValue: { summary: "primary" } },
     },
 
