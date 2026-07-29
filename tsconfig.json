@@ -21,6 +21,6 @@
     "dist",
     "**/*.stories.tsx",
     "**/*.test.tsx",
-    "src/setupTest.ts"
+    "src/setupTests.ts"
   ]
 }
