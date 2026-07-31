@@ -1,6 +1,6 @@
 {
   "name": "@bhavin-patel/velox-ui",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A lightweight React component library built with TypeScript",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
@@ -10,7 +10,8 @@
       "types": "./dist/index.d.ts",
       "import": "./dist/index.js",
       "require": "./dist/index.cjs"
-    }
+    },
+    "./dist/velox-ui.css": "./dist/velox-ui.css"
   },
   "files": [
     "dist"
